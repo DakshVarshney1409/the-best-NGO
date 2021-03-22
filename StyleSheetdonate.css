@@ -1,0 +1,34 @@
+﻿.image{
+    height:80px;
+    width:80px;
+}
+.donate{
+    height:200px;
+    width:200px;
+}
+
+.banner {
+    font-size: 110%;
+    font-style: italic;
+    background-color: mediumspringgreen;
+    float: right;
+    text-align: center;
+    margin:5px 300px 5px 300px;
+    border-radius:40px;
+}
+.faq{
+    text-align:center;
+    text-decoration:underline;
+    color:dodgerblue;
+    font-size:20px;
+}
+
+.declaration {
+    text-align: center;
+    background-color: coral;
+    margin: 10px 300px 10px 300px;
+    border-radius: 40px;
+}
+.beech{
+    margin:10px 50px 10px 50px;
+}
